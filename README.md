@@ -45,7 +45,17 @@
      <br>
      <img src="https://github.com/user-attachments/assets/c24820eb-1b30-4446-988f-0d0d99ff5ab0" width="950" height="600">
      
-### 2. [Artifinity](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
+### 2. [Sodamju](https://github.com/sodamju/sodamju)
+   - **사용 기술 :**
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+     ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+   - **프로젝트 설명 :** 전통주의 가치를 현대와 잇는 새로운 이야기 - 사용자는 커뮤니티에서 다른 사용자와 자신의 전통주 팁을 공유할 수 있습니다.
+
+     <br>
+     <img src="https://github.com/user-attachments/assets/a52230fb-c425-45dd-8532-6f41f50060e2" width="950" height="600">
+    
+### 3. [Artifinity](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
    - **사용 기술 :**
      ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
      ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -54,19 +64,5 @@
 
      <br>
      <img src="https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot/assets/149933307/c2fcfa25-815e-4c10-86a1-3405af93f812" width="950" height="600">
-    
-### 3. [프로젝트 이름 3](https://github.com/HyeonJooooo/Project2) (9월에 채울 예정)
-   - **사용 기술 :**
-     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-     ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-   - **프로젝트 설명 :**
 
 <br>
-
-### 📊 깃허브 활동
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyeonJooooo&theme=github-light&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonJooooo&theme=github-light&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyeonJooooo&theme=github&hide_border=true" alt="GitHub Profile Summary" />
-</p>
