@@ -20,6 +20,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -29,40 +33,127 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <br>
 
-### 📚 주요 프로젝트
+### ✨ 주요 프로젝트
 
-### 1. [MatzipCloud](https://github.com/matzipCloud/MatzipInsight)
-   - **사용 기술 :**
-     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-     ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-   - **프로젝트 설명 :** 사용자는 네이버 리뷰를 크롤링하여 리뷰 데이터를 수집하여 감정분석 후 부정적인 리뷰와 긍정적인 리뷰를 시각화 자료로 볼 수 있습니다.
-     
-     <br>
-     <img src="https://github.com/user-attachments/assets/c24820eb-1b30-4446-988f-0d0d99ff5ab0" width="950" height="600">
-     
-### 2. [Sodamju](https://github.com/sodamju/sodamju)
-   - **사용 기술 :**
-     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-     ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-   - **프로젝트 설명 :** 전통주의 가치를 현대와 잇는 새로운 이야기 - 사용자는 커뮤니티에서 다른 사용자와 자신의 전통주 팁을 공유할 수 있습니다.
+### 1. [Ttatta (따따)](https://github.com/Ttatta-org/Ttatta_Android) - [출시 예정]
+- **사용 기술 :**  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-     <br>
-     <img src="https://github.com/user-attachments/assets/a52230fb-c425-45dd-8532-6f41f50060e2" width="950" height="600">
-    
-### 3. [Artifinity](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
-   - **사용 기술 :**
-     ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-     ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-   - **프로젝트 설명 :** 사용자가 자신의 사진을 업로드하고 공유할 수 있는 웹 애플리케이션입니다.
+- **프로젝트 설명 :**  
+  개인의 감정을 안전하게 기록하고, 추억을 지도 위에 남길 수 있는 **비공개 일기 앱**입니다.  
+  사진의 위치 정보로 자동 기록되며, **지도 기반 시각화**, **클러스터링**, **Jetpack Compose 기반 UI**를 통해 사용자 경험을 강화했습니다.
 
-     <br>
-     <img src="https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot/assets/149933307/c2fcfa25-815e-4c10-86a1-3405af93f812" width="950" height="600">
+<img src="https://github.com/user-attachments/assets/81696cc0-7970-413d-ae49-abc3b76a0853" width="700" alt="Ttatta Preview">
+
+
+<br>
+
+
+### 2. [PricePal (프라이스팔)](https://github.com/APACSolutionChallenge-PricePal/PricePal_Android)
+- **사용 기술 :**  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  여행지에서 합리적인 소비를 도와주는 **여행자 맞춤형 물가 비교 앱**입니다.  
+  출발국/여행국을 선택하면 현지의 평균 물가, 실시간 환율, 예상 택시 요금 정보를 받아볼 수 있습니다.  
+  **Google Maps**, **Retrofit**, **멀티 모듈 구조**를 기반으로 설계되었습니다.
+
+<img src="https://github.com/user-attachments/assets/49b72d14-837c-46af-9de6-2bd96469465a" width="700" alt="PricePal Preview">
+
+
+
+### 3. [MatzipCloud (맛집 클라우드)](https://github.com/matzipCloud/MatzipInsight)
+- **사용 기술 :**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  네이버 플레이스의 리뷰 데이터를 **자동으로 크롤링**하여,  
+  감정 분석 모델을 통해 **긍정/부정 리뷰를 분류**하고  
+  이를 **시각화 차트와 함께 직관적으로 보여주는** 맛집 분석 플랫폼입니다.
+
+<img src="https://github.com/user-attachments/assets/c24820eb-1b30-4446-988f-0d0d99ff5ab0" width="700" alt="MatzipCloud Preview">
+
+
+### 4. [Fortikey (포티키)](https://github.com/SSS-PROJECT-TEAM-9-GDG/BE)
+- **사용 기술 :**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  사용자가 **의심스러운 전화번호나 URL을 검색**하여 위험 여부를 판단할 수 있는  
+  **AI 기반 보안 탐지 플랫폼의 백엔드 서비스**입니다.  
+  또한, 이미지 업로드 시 **AI 추적 회피를 위한 노이즈 삽입 기능**도 제공하며,  
+  Spring Boot 기반 REST API 서버로 구축되어 **의심 데이터 등록, 조회, 노이즈 변조 처리** 등의 기능을 지원합니다.
+
+<img src="https://github.com/user-attachments/assets/4e9c57e2-d6ea-421c-95a4-3b894f203eb2" width="700" alt="SSS Project Backend Preview">
+
+
+### 5. [LifeLegacyBridge - (AI 자서전 생성기)](https://github.com/LifeLegacyBridge/hackerton-Front)
+- **사용 기술 :**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  사용자가 자신의 **인생 이야기나 감정을 입력하면**,  
+  이를 기반으로 **이미지 생성형 AI가 맞춤형 이미지를 생성**하고,  
+  텍스트와 함께 하나의 **디지털 자서전 형태로 구성해주는 서비스**입니다.  
+  인공지능을 활용해 **기억을 시각화**하고, 사용자가 자신의 삶을 **감성적으로 기록**할 수 있도록 돕습니다.
+
+<img src="https://github.com/user-attachments/assets/4d9fc792-5982-4d98-9316-3b171ff1e1c7" width="700" alt="SSS Project Backend Preview">
+
+
+
+### 6. [Sodamju (소담주)](https://github.com/sodamju/sodamju)
+- **사용 기술 :**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  전통주의 가치를 현대에 잇는 커뮤니티 플랫폼으로,  
+  사용자들은 전통주에 대한 팁과 정보를 공유하며 **소통과 기록을 함께 누릴 수 있는 공간**입니다.  
+  게시글, 댓글, 좋아요 등 **기본적인 소셜 기능**과 함께 **전통주 소개 콘텐츠**를 제공합니다.
+
+<img src="https://github.com/user-attachments/assets/a52230fb-c425-45dd-8532-6f41f50060e2" width="700" alt="Sodamju Preview">
+
+
+
+### 7. [Artifinity - 사진 공유 커뮤니티](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
+- **사용 기술 :**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **프로젝트 설명 :**  
+  누구나 자신의 작품을 **업로드하고 공유**할 수 있는 **사진 중심 커뮤니티 플랫폼**입니다.  
+  사용자들은 사진을 등록하고, 프로젝트 소개, 이벤트 페이지 등 **갤러리형 게시판 기능**을 통해 소통할 수 있습니다.  
+  백엔드는 **Spring Boot 기반의 MVC 구조**, 프론트는 JSP와 JavaScript로 구성되었으며,  
+  게시물 등록, 상세 조회, 검색, 필터링 등 **기본적인 콘텐츠 관리 기능**을 지원합니다.
+
+<img src="https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot/assets/149933307/c2fcfa25-815e-4c10-86a1-3405af93f812" width="700" alt="Artifinity Preview">
+
 
 <br>
