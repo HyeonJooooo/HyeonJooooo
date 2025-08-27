@@ -59,8 +59,42 @@
 
 <br>
 
+### 2. [LinkU (링큐)](https://github.com/LinkYou-2025/LinkU_backend) - [창업 동아리 출시 예정]
+- **사용 기술 :**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![Perplexity API](https://img.shields.io/badge/Perplexity%20API-3333FF?style=flat&logo=askubuntu&logoColor=white)
 
-### 2. [PricePal (프라이스팔)](https://github.com/APACSolutionChallenge-PricePal/PricePal_Android)
+
+- **프로젝트 설명 :**  
+🔗 **링큐(Link:U)**: **Link**+**You**  
+링크와 당신을 잇다 : 당신을 생각하는 링큐
+
+> **유저맞춤 링크추천**으로 _"사용자에게 가장 적합한 콘텐츠를 제공"_ 하며,  
+> 단순 아카이빙을 넘어, 정보 재소비와 재발견의 즐거움을 제공.
+- 사용자가 앱에 저장한 링크를 바탕으로 AI가 정보를 간단히 요약하고 분류
+- 저장된 링크 기반으로 사용자의 라이프스타일, 감정 상태 등을 고려한 맞춤형 큐레이션 서비스 제공
+- 저장한 링크를 맞춤형 뉴스레터 형식으로 제공
+
+<img src="https://github.com/user-attachments/assets/0fd7ea5a-4c06-4726-a5cd-7e8d1052f55c" width="700" alt="Ttatta Preview">
+
+
+<br>
+
+
+### 3. [PricePal (프라이스팔)](https://github.com/APACSolutionChallenge-PricePal/PricePal_Android)
 - **사용 기술 :**  
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
@@ -76,7 +110,7 @@
 
 
 
-### 3. [MatzipCloud (맛집 클라우드)](https://github.com/matzipCloud/MatzipInsight)
+### 4. [MatzipCloud (맛집 클라우드)](https://github.com/matzipCloud/MatzipInsight)
 - **사용 기술 :**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -90,7 +124,7 @@
 <img src="https://github.com/user-attachments/assets/c24820eb-1b30-4446-988f-0d0d99ff5ab0" width="700" alt="MatzipCloud Preview">
 
 
-### 4. [Fortikey (포티키)](https://github.com/SSS-PROJECT-TEAM-9-GDG/BE)
+### 5. [Fortikey (포티키)](https://github.com/SSS-PROJECT-TEAM-9-GDG/BE)
 - **사용 기술 :**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -106,7 +140,7 @@
 <img src="https://github.com/user-attachments/assets/4e9c57e2-d6ea-421c-95a4-3b894f203eb2" width="700" alt="SSS Project Backend Preview">
 
 
-### 5. [LifeLegacyBridge - (AI 자서전 생성기)](https://github.com/LifeLegacyBridge/hackerton-Front)
+### 6. [LifeLegacyBridge - (AI 자서전 생성기)](https://github.com/LifeLegacyBridge/hackerton-Front)
 - **사용 기술 :**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -123,7 +157,7 @@
 
 
 
-### 6. [Sodamju (소담주)](https://github.com/sodamju/sodamju)
+### 7. [Sodamju (소담주)](https://github.com/sodamju/sodamju)
 - **사용 기술 :**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -139,7 +173,7 @@
 
 
 
-### 7. [Artifinity - 사진 공유 커뮤니티](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
+### 8. [Artifinity - 사진 공유 커뮤니티](https://github.com/ArtifinityTeam/Artifinity-PhotoBoard-SpringBoot)
 - **사용 기술 :**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
