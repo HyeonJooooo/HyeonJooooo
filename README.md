@@ -1,4 +1,4 @@
-<h3>안녕하세요, HyeonJooooo입니다! 👋</h3>
+<h3>안녕하세요, HyeonJooooo입니다! 🩵</h3>
 
 <p>
   <a href="https://github.com/HyeonJooooo"><img src="https://img.shields.io/github/followers/HyeonJooooo?label=Follow&style=social"></a>
